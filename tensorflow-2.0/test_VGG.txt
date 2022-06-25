@@ -1,0 +1,37 @@
+num_batchs: 1200, batc_index: 0
+num_batchs: 1200, batc_index: 100
+num_batchs: 1200, batc_index: 200
+num_batchs: 1200, batc_index: 300
+num_batchs: 1200, batc_index: 400
+num_batchs: 1200, batc_index: 500
+num_batchs: 1200, batc_index: 600
+num_batchs: 1200, batc_index: 700
+num_batchs: 1200, batc_index: 800
+num_batchs: 1200, batc_index: 900
+num_batchs: 1200, batc_index: 1000
+num_batchs: 1200, batc_index: 1100
+test saccuracy: 0.960000num_batchs: 1200, batc_index: 0
+num_batchs: 1200, batc_index: 100
+num_batchs: 1200, batc_index: 200
+num_batchs: 1200, batc_index: 300
+num_batchs: 1200, batc_index: 400
+num_batchs: 1200, batc_index: 500
+num_batchs: 1200, batc_index: 600
+num_batchs: 1200, batc_index: 700
+num_batchs: 1200, batc_index: 800
+num_batchs: 1200, batc_index: 900
+num_batchs: 1200, batc_index: 1000
+num_batchs: 1200, batc_index: 1100
+test saccuracy: 0.960000num_batchs: 1200, batc_index: 0
+num_batchs: 1200, batc_index: 100
+num_batchs: 1200, batc_index: 200
+num_batchs: 1200, batc_index: 300
+num_batchs: 1200, batc_index: 400
+num_batchs: 1200, batc_index: 500
+num_batchs: 1200, batc_index: 600
+num_batchs: 1200, batc_index: 700
+num_batchs: 1200, batc_index: 800
+num_batchs: 1200, batc_index: 900
+num_batchs: 1200, batc_index: 1000
+num_batchs: 1200, batc_index: 1100
+test saccuracy: 0.960000Running time: 163 m  42.043810 s
