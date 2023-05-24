@@ -118,3 +118,12 @@ batch: 11600, loss: 0.011185
 batch: 11700, loss: 0.049508
 batch: 11800, loss: 0.052590
 batch: 11900, loss: 0.013205
+batch: 0, loss: 2.303155
+batch: 0, loss: 2.302439
+batch: 1, loss: 3.026785
+batch: 2, loss: 2.302477
+batch: 3, loss: 2.299973
+batch: 4, loss: 2.302078
+batch: 5, loss: 2.281440
+batch: 6, loss: 2.393549
+batch: 7, loss: 2.273713
